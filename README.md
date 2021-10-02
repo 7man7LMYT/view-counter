@@ -35,25 +35,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/7man7LMYT/view-counter/raw/master/graph/325231242/small/year.png" height="20"> 24
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/7man7LMYT/view-counter/tree/master/readme/337518060/year.md">
-				ConvertJavaTextureToBedrock
-			</a>
-		</td>
-		<td>
-			2021/9/30 1:01 AM UTC
-		</td>
-		<td>
-			62
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/7man7LMYT/view-counter/raw/master/graph/337518060/small/year.png" height="20"> 176
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2021/10/2 6:19 AM UTC</i></small>
+<small><i>Last updated on 2021/10/2 12:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
